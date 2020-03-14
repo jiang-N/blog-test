@@ -16,7 +16,7 @@
 
 是不是每个程序员都写过hello world?
 ```javascript
-funciton say(){
+function say(){
     console.log('hello world!')
 }
 say()
