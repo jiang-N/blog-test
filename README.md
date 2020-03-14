@@ -19,4 +19,4 @@ console.log(a)
 
 这是链接[点我](http://github.com)
 
-![看我](../one/1.jpg1.jpg)
+![看我](../one/1.jpg)
